@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PicPay Clone</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Pagar</string>
+    <string name="title_notifications">Ajustes</string>
+</resources>
